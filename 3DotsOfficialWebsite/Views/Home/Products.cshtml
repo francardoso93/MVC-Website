@@ -1,0 +1,114 @@
+﻿
+@{
+    ViewBag.Title = "Produtos e Serviços";
+    Layout = "~/Views/Shared/_LayoutContent.cshtml";
+}
+
+<h2 class="pageTitle">@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+
+<br />
+
+<div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+        <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+                    RH.NET
+                </a>
+            </h4>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse in">
+            <div class="panel-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                commodo consequat.
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+                    NET BARBER
+                </a>
+            </h4>
+        </div>
+        <div id="collapse2" class="panel-collapse collapse">
+            <div class="panel-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                commodo consequat.
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+                    Aplicativos
+                </a>
+            </h4>
+        </div>
+        <div id="collapse3" class="panel-collapse collapse">
+            <div class="panel-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                commodo consequat.
+            </div>
+        </div>
+
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                    Websites
+                </a>
+            </h4>
+        </div>
+        <div id="collapse4" class="panel-collapse collapse">
+            <div class="panel-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                commodo consequat.
+            </div>
+        </div>
+
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+                    Sistemas
+                </a>
+            </h4>
+        </div>
+        <div id="collapse5" class="panel-collapse collapse">
+            <div class="panel-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                commodo consequat.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<input type="hidden" id="produtoId" value="@ViewBag.ProdutoId" >
+<script>
+    $(document).ready(function () {
+        //Abre o produto que foi selecionado na Home
+        var produtoId = $("#produtoId").val();
+        if (produtoId) {
+            $("#collapse1").collapse('hide');
+            $("#" + produtoId).collapse('show');
+        }
+        //$("#collapse5").collapse('show');
+    });
+</script>

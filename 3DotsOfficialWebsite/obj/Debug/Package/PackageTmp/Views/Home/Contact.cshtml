@@ -1,0 +1,79 @@
+﻿@model _3DotsOfficialWebsite.Models.PotentialClient
+@{
+    ViewBag.Title = "Contato";
+}
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+
+<br />
+
+@using (Html.BeginForm("Contact", "Home", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+    <div class="form-group">
+        <div class="row">
+            <label class="control-label col-sm-1" for="name"> Nome: </label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="name" name="name" placeholder="Nome">
+                @Html.ValidationMessageFor(model => model.name, String.Empty, new { @style = "color:red;!important" })
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="row">
+            <label class="control-label col-sm-1" for="email"> Email: </label>
+            <div class="col-sm-10">
+                <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                @Html.ValidationMessageFor(model => model.email, String.Empty, new { @style = "color:red;!important" })
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="row">
+            <label class="control-label col-sm-1" for="phone"> Telefone: </label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="phone" name="phone" placeholder="Telefone">
+                @Html.ValidationMessageFor(model => model.phone, String.Empty, new { @style = "color:red;!important" })
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="row">
+            <label class="control-label col-sm-1" for="company">Empresa:</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="company" name="company" placeholder="Empresa">
+                @Html.ValidationMessageFor(model => model.company, String.Empty, new { @style = "color:red;!important" })
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="row">
+            <label class="control-label col-sm-1" for="message">Mensagem:</label>
+            <div class="col-sm-10">
+                <textarea class="form-control" id="message" name="message" placeholder="Mensagem"></textarea>
+                @Html.ValidationMessageFor(model => model.message, String.Empty, new { @style = "color:red;!important" })
+
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="row">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button type="submit" class="btn btn-default">Enviar</button>                
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <p id="contactMessageSentConfirmation"> @ViewBag.MensagemEnviada </p>
+    </div>
+}        
+        <br />
+        <address>
+            <b>Email: </b> <br />
+            <a href="mailto:Support@example.com">contato@3dots.com.br</a><br /><br />
+            <b>Telefones: </b> <br />
+            (11) 99999-9999 <br />
+            (11) 99999-9999 <br />
+            (11) 99999-9999 <br />
+        </address>

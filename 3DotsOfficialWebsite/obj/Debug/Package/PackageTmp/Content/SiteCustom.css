@@ -1,0 +1,24 @@
+﻿#homeImage {
+    width: 100%;
+    /*height: 500px;*/
+    height: auto;
+    /*padding-top: 30px;*/
+    padding-bottom: 30px;
+}
+
+#3dotsNavCustom {
+    font-size: 16px;
+}
+
+.pageTitle {
+    color: black;
+}
+
+.validationMessage {
+    color: red;
+}
+
+#contactMessageSentConfirmation {
+    color: blue;
+    font-size: 25px;
+}

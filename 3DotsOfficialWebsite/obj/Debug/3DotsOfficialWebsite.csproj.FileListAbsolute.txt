@@ -1,0 +1,167 @@
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\3DotsOfficialWebsite.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\3DotsOfficialWebsite.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\3DotsOfficialWebsite.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Google.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Helpers.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Mvc.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Helpers.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Mvc.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Optimization.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Antlr3.Runtime.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Google.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\obj\Debug\3DotsOfficialWebsite.dll
+c:\users\administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\obj\Debug\3DotsOfficialWebsite.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\AWSSDK.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\AWSSDK.pdb
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\ApplicationInsights.config
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\csc.exe
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\vbc.exe
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\3DotsOfficialWebsite.dll.config
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\3DotsOfficialWebsite.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\3DotsOfficialWebsite.pdb
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\AWSSDK.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\EntityFramework.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Owin.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Helpers.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Mvc.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Optimization.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Razor.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\WebGrease.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\AWSSDK.pdb
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Helpers.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Mvc.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Optimization.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.Razor.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\EntityFramework.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\obj\Debug\3DotsOfficialWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\obj\Debug\3DotsOfficialWebsite.dll
+C:\Users\Fran\Documents\3Dots Tecnologia\3DotsOfficialWebsite\3DotsOfficialWebsite\obj\Debug\3DotsOfficialWebsite.pdb

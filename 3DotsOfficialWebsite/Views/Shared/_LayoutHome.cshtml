@@ -1,0 +1,14 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutParent.cshtml";
+}
+
+@*Logo da empresa (caso imagem deva ocupar o site completamente)*@
+<div>
+   <img src="~/Content/images/3dotsLogo.PNG" id="homeImage"/>
+</div>
+
+@*Conteudo*@
+<div class="container body-content">
+    @*<img src="~/Content/images/3dotsLogo.PNG" id="homeImage" />*@
+    @RenderBody()
+</div>
